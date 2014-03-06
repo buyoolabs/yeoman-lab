@@ -14,7 +14,7 @@ yeoman-lab
 - *Yeoman* es una herramienta para ayudar con el *workflow* de desarrollo web, sobre todo sirve de lanzadera para crear un nuevo proyecto
 - Yeoman se compone de tres herramientas:
 	- [yo](http://yeoman.io/): para hacer scaffolding, para generar un punto de partida
-	- [bower](http://bower.io/)*: un gestor de paquetes, por ej: agregar frameworks o herramientas de manera sencilla
+	- [bower](http://bower.io/): un gestor de paquetes, por ej: agregar frameworks o herramientas de manera sencilla
 	- [grunt](http://gruntjs.com/): una herramienta de generación de tareas automáticas, por ej: compilar ficheros Sass u optimizar imágenes
 - Requiere Node.js, para instalarlo: `npm install -g yo`
 - La interfaz es línea de comandos en el terminal, para cualquiera de las 3 herramientas
