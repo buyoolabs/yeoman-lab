@@ -11,8 +11,6 @@ yeoman-lab
        __'.___.'__
      ´   `  |° ´ Y `
 
-# Yeoman
-
 - *Yeoman* es una herramienta para ayudar con el *workflow* de desarrollo web, sobre todo sirve de lanzadera para crear un nuevo proyecto
 - Yeoman se compone de tres herramientas:
 	- [yo](http://yeoman.io/): para hacer scaffolding, para generar un punto de partida
